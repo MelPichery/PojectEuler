@@ -1,6 +1,6 @@
 public class SumOf3and5Multiples {
 
-    public int returnSumOf3and5Multiples(int numberChoosen) {
+    public int findSumOf3and5Multiples(int numberChoosen) {
         int number = 0;
         int sum = 0;
         while(number<numberChoosen) {
